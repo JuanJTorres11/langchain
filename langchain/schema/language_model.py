@@ -22,9 +22,7 @@ from langchain.schema.messages import BaseMessage, get_buffer_string
 from langchain.schema.output import LLMResult
 from langchain.schema.prompt import PromptValue
 from langchain.schema.runnable import Runnable, RunnableConfig
-
 from langchain.prompts.base import StringPromptValue
-
 from langchain.prompts.chat import ChatPromptValue
 
 
